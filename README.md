@@ -235,3 +235,9 @@ tutorialspoint
 |Regular expression|This datatype is used to store regular expression.| 
 
 
+### CRUD operations on document :- 
+
+### Create document
+### Read document
+### Update document
+### Delete document
